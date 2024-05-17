@@ -87,4 +87,4 @@ for (let i=0; 1 <got.length; i++)
     {console.log("Hola" ${got[i].nombre} +${got[i].apellido} +criatura viajera!);
 }
 for (let i=0; i<got.length;i++)
-{console.log("Hola" ${got[i].nombre}+ ${got[i].apellido}+ criatura viajera!de la ciudad+ ${got[i].ciudad}`);;
+{console.log("Hola" ${got[i].nombre}+ ${got[i].apellido}+ criatura viajera!de la ciudad+ ${got[i].ciudad}`);;}
